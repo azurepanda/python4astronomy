@@ -1,0 +1,13 @@
+[AHF]
+ic_filename = run670Diff.01550
+ic_filetype = 90
+outfile_prefix = run670Diff.01550
+LgridDomain = 256
+LgridMax = 16
+NperDomCell = 5
+NperRefCell = 5
+VescTune = 1.5
+NminPerHalo = 50
+RhoVir = 0
+Dvir = 200
+MaxGatherRad = 10.0
